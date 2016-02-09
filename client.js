@@ -50,13 +50,13 @@ function setup(plugin, imports, register) {
     action_import: function*(files) {
       var file = files[0]
         , state = ui.store.getState()
-        , importTypes = state.importexport.importTypes[state.editor.document.type]
+        , importTypes = state['import'].importTypes[state.editor.document.type]
         , documentId = ui.store.getState().editor.document.id
       try {
         if(file.type && !importTypes.filter(match(file.type)).length) {
           throw new Error('File type not supported')
         }
-        yield importexport.action_importing(file.name)
+        yield importProvider.action_importing(file.name)
         yield api.action_document_import(documentId, file)
         yield {type: IMPORTED}
       }catch(e) {
@@ -77,7 +77,7 @@ function setup(plugin, imports, register) {
   ui.onRenderNavbarRight((store, children) => {
     var state = store.getState()
     if(!state.editor.editor) return
-    if(state.['import'].importTypes[state.editor.document.type]) {
+    if(state['import'].importTypes[state.editor.document.type]) {
       children.unshift(renderImport(store))
     }
   })
