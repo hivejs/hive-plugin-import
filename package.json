@@ -4,6 +4,7 @@
   "description": "Import plugin for hive.js",
   "main": "index.js",
   "dependencies": {
+    "mime-match": "1.x",
     "virtual-dom": "2.x"
   },
   "scripts": {
