@@ -1,0 +1,28 @@
+{
+  "name": "hive-plugin-import",
+  "version": "0.1.0",
+  "description": "Import plugin for hive.js",
+  "main": "index.js",
+  "dependencies": {
+    "virtual-dom": "2.x"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hivejs/hive-plugin-import.git"
+  },
+  "keywords": [
+    "hivejs",
+    "hive.js"
+  ],
+  "author": "Marcel Klehr <mklehr@gmx.net>",
+  "license": {
+    "license": "GPL-3.0"
+  },
+  "bugs": {
+    "url": "https://github.com/hivejs/hive-plugin-import/issues"
+  },
+  "homepage": "https://github.com/hivejs/hive-plugin-import"
+}

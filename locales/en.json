@@ -1,0 +1,7 @@
+{
+  "plugin-import": {
+      "import": "Import"
+    , "import-browser-not-supported": "Your browser doesn't support this feature. Sorry."
+    , "importing": "Importing {file}..."
+  }
+}
