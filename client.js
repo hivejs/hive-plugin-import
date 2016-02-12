@@ -116,15 +116,22 @@ function setup(plugin, imports, register) {
   function renderImportDropdown(store) {
     var state = store.getState()['import']
 
+    var children = [h('li.dropdown-header', ui._('plugin-import/import')())]
+
     if(!window.File || !window.FileReader || !window.FileList || !window.Blob) {
-      return h('li', h('a', ui._('plugin-import/import-browser-not-supported')()))
+      children.push(h('li'
+      , h('a', ui._('plugin-import/import-browser-not-supported')())
+      ))
+      return children
     }
 
     if(state.importing) {
-      return h('li', h('a', ui._('plugin-import/importing')({file:state.importing})))
+      children.push(h('li'
+      , h('a', ui._('plugin-import/importing')({file:state.importing}))
+      ))
+      return children
     }
 
-    var children = []
 
     children.push(
       h('li', h('a', [
