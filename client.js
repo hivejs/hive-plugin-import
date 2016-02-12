@@ -91,7 +91,7 @@ function setup(plugin, imports, register) {
       h('a.dropdown-toggle', {
           href: 'javascript:void(0)'
         , 'ev-click': evt => store.dispatch(importProvider.action_toggleImportDropdown())
-        , id: 'exportMenu'
+        , id: 'importMenu'
         , attributes: {
             'data-toggle': 'dropdown'
           , 'aria-haspopup': 'true'
@@ -101,7 +101,7 @@ function setup(plugin, imports, register) {
       , [ui._('plugin-import/import')(), h('span.caret') ]
       )
     , h('ul.dropdown-menu'
-      , { attributes: {'aria-labelledby':'exportMenu'}
+      , { attributes: {'aria-labelledby':'importMenu'}
         }
       , renderImportDropdown(store)
       )
