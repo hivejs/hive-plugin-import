@@ -97,8 +97,13 @@ function setup(plugin, imports, register) {
           , 'aria-haspopup': 'true'
           , 'aria-expanded': state.showImportDropdown? 'true' : 'false'
           }
+        , title: ui._('plugin-import/import')()
         }
-      , [ui._('plugin-import/import')(), h('span.caret') ]
+      , [
+          h('i.glyphicon.glyphicon-import')
+        , h('span.sr-only', ui._('plugin-import/import')())
+        , h('span.caret')
+        ]
       )
     , h('ul.dropdown-menu'
       , { attributes: {'aria-labelledby':'importMenu'}
