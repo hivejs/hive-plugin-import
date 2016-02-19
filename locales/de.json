@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Metalhead64"
+		]
+	},
+	"plugin-import": {
+		"import": "Importieren",
+		"import-browser-not-supported": "Leider unterstützt dein Browser diese Funktion nicht.",
+		"importing": "Importiere {file} …"
+	}
+}

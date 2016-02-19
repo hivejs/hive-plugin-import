@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Liuxinyu970226"
+		]
+	},
+	"plugin-import": {
+		"import": "导入",
+		"import-browser-not-supported": "您的浏览器不支持该功能。对不起。",
+		"importing": "正在导入{file}..."
+	}
+}

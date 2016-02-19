@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Aftabuzzaman"
+		]
+	},
+	"plugin-import": {
+		"import": "আমদানি",
+		"import-browser-not-supported": "আপনার ব্রাউজার এই বৈশিষ্ট্য সমর্থন করে না। দুঃখিত।",
+		"importing": "{file} আমদানি করা হচ্ছে..."
+	}
+}

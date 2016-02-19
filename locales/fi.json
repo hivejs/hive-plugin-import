@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Nike"
+		]
+	},
+	"plugin-import": {
+		"import": "Tuo",
+		"import-browser-not-supported": "Selaimesi ei tue tätä ominaisuutta.",
+		"importing": "Tuodaan tiedostoa {file}..."
+	}
+}

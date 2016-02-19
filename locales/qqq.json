@@ -1,7 +1,12 @@
 {
-  "plugin-import": {
-      "import": "A menu item for a dropdown"
-    , "import-browser-not-supported": "Error message."
-    , "importing": "Displayed while importing a file. {file} looks like this: document.txt"
-  }
+	"@metadata": {
+		"authors": [
+			"Liuxinyu970226"
+		]
+	},
+	"plugin-import": {
+		"import": "A menu item for a dropdown\n{{Identical|Import}}",
+		"import-browser-not-supported": "Error message.",
+		"importing": "Displayed while importing a file. {file} looks like this: document.txt\n{{Identical|Importing}}"
+	}
 }

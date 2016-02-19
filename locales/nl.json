@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Siebrand"
+		]
+	},
+	"plugin-import": {
+		"import": "Importeren",
+		"import-browser-not-supported": "Uw browser ondersteunt deze functie helaas niet.",
+		"importing": "{file} aan het importeren..."
+	}
+}

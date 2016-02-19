@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Beta16"
+		]
+	},
+	"plugin-import": {
+		"import": "Importa",
+		"import-browser-not-supported": "Il tuo browser non supporta questa funzionalità. Spiacenti."
+	}
+}

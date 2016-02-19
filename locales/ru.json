@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Okras"
+		]
+	},
+	"plugin-import": {
+		"import": "Импортировать",
+		"import-browser-not-supported": "Ваш браузер не поддерживает эту функцию. Простите.",
+		"importing": "Импорт {file}…"
+	}
+}

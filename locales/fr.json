@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Gomoko"
+		]
+	},
+	"plugin-import": {
+		"import": "Importer",
+		"import-browser-not-supported": "Votre navigateur ne supporte pas cette fonctionnalité. Désolé.",
+		"importing": "Importation de {file}…"
+	}
+}

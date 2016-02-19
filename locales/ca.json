@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Macofe"
+		]
+	},
+	"plugin-import": {
+		"import": "Importa",
+		"importing": "Important {file}..."
+	}
+}
