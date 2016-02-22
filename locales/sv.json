@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"WikiPhoenix"
+		]
+	},
+	"plugin-import": {
+		"import": "Importera",
+		"importing": "Importerar {file}..."
+	}
+}

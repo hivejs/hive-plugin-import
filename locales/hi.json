@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Sfic"
+		]
+	},
+	"plugin-import": {
+		"import": "आयात",
+		"importing": "आयात कर रहा {file}..."
+	}
+}
