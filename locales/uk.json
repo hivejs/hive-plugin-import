@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Lxlalexlxl"
+		]
+	},
+	"plugin-import": {
+		"import": "Імпорт",
+		"import-browser-not-supported": "Ваш браузер не підтримує цю функцію. На жаль.",
+		"importing": "Імпортування {file}..."
+	}
+}

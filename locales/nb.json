@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"SuperPotato"
+		]
+	},
+	"plugin-import": {
+		"import": "Importer",
+		"import-browser-not-supported": "Nettleseren din støtter ikke denne funksjonen. Beklager.",
+		"importing": "Importerer {file}..."
+	}
+}

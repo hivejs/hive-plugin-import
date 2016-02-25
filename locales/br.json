@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Gwenn-Ael"
+		]
+	},
+	"plugin-import": {
+		"import": "Enporzhiañ",
+		"import-browser-not-supported": "Ne vez ket embreget an arc'hwel-mañ gant ho arc'hwel.Digarezit.",
+		"importing": "Enporzhiañ {file}..."
+	}
+}
