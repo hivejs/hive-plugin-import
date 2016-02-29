@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Elisardojm"
+		]
+	},
+	"plugin-import": {
+		"import": "Importar",
+		"import-browser-not-supported": "O seu navegador non soporta esta funcionalidade. Desculpe.",
+		"importing": "Importando {file}..."
+	}
+}

@@ -6,6 +6,7 @@
 	},
 	"plugin-import": {
 		"import": "Importera",
+		"import-browser-not-supported": "Din webbläsare stödjer inte denna funktion. Förlåt.",
 		"importing": "Importerar {file}..."
 	}
 }

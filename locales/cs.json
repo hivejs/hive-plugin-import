@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Aktron"
+		]
+	},
+	"plugin-import": {
+		"import": "Import",
+		"import-browser-not-supported": "Tuto vlastnost váš prohlížeč bohužel nepodporuje. Omlouváme se.",
+		"importing": "Probíhá import souboru {file}..."
+	}
+}
