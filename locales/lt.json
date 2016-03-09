@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Zygimantus"
+		]
+	},
+	"plugin-import": {
+		"import": "Importuoti",
+		"import-browser-not-supported": "Jūsų naršyklė nepalaiko šios funkcijos. Atsiprašome.",
+		"importing": "Importuojamas {file}..."
+	}
+}
