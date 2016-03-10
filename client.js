@@ -78,7 +78,7 @@ function setup(plugin, imports, register) {
   ui.onRenderNavbarRight((store, children) => {
     var state = store.getState()
     if(!state.editor.editor) return
-    if(state['import'].importTypes[state.editor.document.type]) {
+    if(state['import'].importTypes[state.editor.document.attributes.type]) {
       children.unshift(renderImport(store))
     }
   })
