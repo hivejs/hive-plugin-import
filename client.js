@@ -51,7 +51,7 @@ function setup(plugin, imports, register) {
     action_import: function*(files) {
       var file = files[0]
         , state = ui.store.getState()
-        , importTypes = state['import'].importTypes[state.editor.document.type]
+        , importTypes = state['import'].importTypes[state.editor.document.attributes.type]
         , documentId = ui.store.getState().editor.document.id
       try {
         if(file.type && !importTypes.filter(match(file.type)).length) {
