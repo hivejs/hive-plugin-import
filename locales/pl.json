@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Mateon1"
+		]
+	},
+	"plugin-import": {
+		"import": "Importuj",
+		"import-browser-not-supported": "Twoja przeglądarka nie obsługuje tej funkcji. Przepraszamy.",
+		"importing": "Importowanie {file}..."
+	}
+}
