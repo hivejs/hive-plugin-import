@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Luk3"
+		]
+	},
+	"plugin-import": {
+		"import": "Importar",
+		"import-browser-not-supported": "Seu navegador não tem suporte para esta funcionalidade. Desculpe.",
+		"importing": "Importando {file}..."
+	}
+}
