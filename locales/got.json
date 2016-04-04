@@ -6,6 +6,7 @@
 	},
 	"plugin-import": {
 		"import": "𐌹𐌽𐌽𐌰𐍄𐌱𐌰𐌹𐍂",
+		"import-browser-not-supported": "𐌸𐌴𐌹𐌽𐌰 𐌱𐍂𐌿𐍃𐍄𐌾𐌰 𐌽𐌹 𐌼𐌰𐌲 𐌱𐍂𐌿𐌺𐌾𐌰𐌽 𐌸𐌹𐍃. 𐌷𐌰𐌱𐌰𐌹 𐌿𐌽𐍃 𐍆𐌰𐌿𐍂𐌵𐌹𐌸𐌰𐌽𐌰.",
 		"importing": "𐌹𐌽𐌽𐌰𐍄𐌱𐌰𐌹𐍂𐌰𐌽𐌳𐍉 {file}..."
 	}
 }
