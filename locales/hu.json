@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Wolf Rex"
+		]
+	},
+	"plugin-import": {
+		"import": "Importálás",
+		"import-browser-not-supported": "A böngésződ nem támogatja ezt a funkciót. Sajnáljuk.",
+		"importing": "{file} importálása..."
+	}
+}

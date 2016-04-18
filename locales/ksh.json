@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Purodha"
+		]
+	},
+	"plugin-import": {
+		"import": "Empottehre",
+		"import-browser-not-supported": "Dinge Brauser kann dat nit. Schahdt.",
+		"importing": "Aam Empottehre {file}..."
+	}
+}
