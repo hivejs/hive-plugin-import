@@ -6,6 +6,7 @@
 	},
 	"plugin-import": {
 		"import": "Importa",
-		"import-browser-not-supported": "Il tuo browser non supporta questa funzionalità. Spiacenti."
+		"import-browser-not-supported": "Il tuo browser non supporta questa funzionalità. Spiacenti.",
+		"importing": "Importazione {file}..."
 	}
 }
