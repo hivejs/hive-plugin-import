@@ -1,12 +1,13 @@
 {
 	"@metadata": {
 		"authors": [
-			"Янмурза Баки"
+			"Янмурза Баки",
+			"Айсар"
 		]
 	},
 	"plugin-import": {
 		"import": "Импорт",
-		"import-browser-not-supported": "Ғәфү итегеҙ, һеҙҙең браузер был функцияны тотмай",
+		"import-browser-not-supported": "Һеҙҙең браузер был функцияны тотмай",
 		"importing": "Импорт {file}…"
 	}
 }
