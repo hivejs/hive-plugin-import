@@ -2,12 +2,13 @@
 	"@metadata": {
 		"authors": [
 			"Янмурза Баки",
-			"Айсар"
+			"Айсар",
+			"Ләйсән"
 		]
 	},
 	"plugin-import": {
 		"import": "Импорт",
-		"import-browser-not-supported": "Һеҙҙең браузер был функцияны тотмай",
+		"import-browser-not-supported": "Һеҙҙең браузер был функцияны тотмай. Ғәфү итегеҙ.",
 		"importing": "Импорт {file}…"
 	}
 }
