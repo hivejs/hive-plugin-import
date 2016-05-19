@@ -1,6 +1,6 @@
 {
   "name": "hive-plugin-import",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "Import plugin for hive.js",
   "main": "index.js",
   "dependencies": {
