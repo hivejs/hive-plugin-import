@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Rancher"
+		]
+	},
+	"plugin-import": {
+		"import": "Увези",
+		"import-browser-not-supported": "Нажалост, ваш прегледач не подржава ову функцију.",
+		"importing": "Увозим {file}…"
+	}
+}
