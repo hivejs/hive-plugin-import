@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Muhammad Shuaib"
+		]
+	},
+	"plugin-import": {
+		"import": "درآمد",
+		"import-browser-not-supported": "آپ کا براؤزر اس سہولت کو معاونت فراہم نہیں کرتا، معذرت!",
+		"importing": "{file} درآمد ہو رہی ہے۔۔۔"
+	}
+}

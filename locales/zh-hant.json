@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Kly"
+		]
+	},
+	"plugin-import": {
+		"import": "匯入",
+		"import-browser-not-supported": "很抱歉，您的瀏覽器不支援此功能。",
+		"importing": "{file}匯入中..."
+	}
+}
