@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Kumkumuk"
+		]
+	},
+	"plugin-import": {
+		"import": "Zerre ke",
+		"import-browser-not-supported": "Rovıterê şıma ena xısusiyeter desteg nêkeno,  qısur mewni.",
+		"importing": "Debêna {file}..."
+	}
+}
