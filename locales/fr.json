@@ -1,12 +1,13 @@
 {
 	"@metadata": {
 		"authors": [
-			"Gomoko"
+			"Gomoko",
+			"Urhixidur"
 		]
 	},
 	"plugin-import": {
 		"import": "Importer",
-		"import-browser-not-supported": "Votre navigateur ne supporte pas cette fonctionnalité. Désolé.",
+		"import-browser-not-supported": "Votre navigateur ne prend pas en charge cette fonctionnalité. Désolé.",
 		"importing": "Importation de {file}…"
 	}
 }

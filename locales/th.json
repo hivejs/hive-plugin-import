@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Pon44695"
+		]
+	},
+	"plugin-import": {
+		"import": "นำเข้า",
+		"import-browser-not-supported": "ขออภัย บราวเซอร์ของคุณไม่รองรับคุณลักษณะนี้",
+		"importing": "กำลังนำเข้า {file}..."
+	}
+}
