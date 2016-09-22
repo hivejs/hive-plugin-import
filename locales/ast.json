@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Xuacu"
+		]
+	},
+	"plugin-import": {
+		"import": "Importar",
+		"import-browser-not-supported": "El to navegador nun tien sofitu pa esta carauterística. Sentímoslo.",
+		"importing": "Importando {file}..."
+	}
+}
