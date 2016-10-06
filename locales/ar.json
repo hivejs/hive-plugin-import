@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Maroen1990",
+			"ديفيد"
+		]
+	},
+	"plugin-import": {
+		"import": "استورد",
+		"import-browser-not-supported": "متصفحك لا يدعم هذه الميزة، معذرةً.",
+		"importing": "استيراد {file}..."
+	}
+}
