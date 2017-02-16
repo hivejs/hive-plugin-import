@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Jagwar"
+		]
+	},
+	"plugin-import": {
+		"import": "Ampidirina",
+		"import-browser-not-supported": "Tsy mahazaka ity fahafahana ity ny mpitety tranonkalanao. Azafady indrindra.",
+		"importing": "Mampiditra an'i {file}..."
+	}
+}
