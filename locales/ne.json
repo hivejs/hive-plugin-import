@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"सरोज कुमार ढकाल"
+		]
+	},
+	"plugin-import": {
+		"import": "आयात",
+		"import-browser-not-supported": "Your browser doesn't support this feature. माफ गर्नुहोस्।",
+		"importing": "{file} आयात गर्दै..."
+	}
+}

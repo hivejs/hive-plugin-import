@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Cedric31"
+		]
+	},
+	"plugin-import": {
+		"import": "Importar",
+		"importing": "Importacion de {file}…"
+	}
+}
