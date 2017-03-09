@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Hidayatsrf"
+		]
+	},
+	"plugin-import": {
+		"import": "Impor",
+		"import-browser-not-supported": "Browser Anda tidak mendukung fitur ini. Maaf.",
+		"importing": "Mengimpor {file}..."
+	}
+}
