@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Subi"
+		]
+	},
+	"plugin-import": {
+		"import": "Inportatu",
+		"importing": "{file} inportatzen..."
+	}
+}
