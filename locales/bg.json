@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"StanProg"
+		]
+	},
+	"plugin-import": {
+		"import": "Внасяне",
+		"import-browser-not-supported": "Вашият браузър не поддържа тази функция. Съжаляваме.",
+		"importing": "Внасяне на {file}..."
+	}
+}
