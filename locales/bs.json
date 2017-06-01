@@ -5,6 +5,7 @@
 		]
 	},
 	"plugin-import": {
+		"import": "Uvezi",
 		"import-browser-not-supported": "Vaš preglednik ne podržava ovu funkciju. Žao nam je.",
 		"importing": "Uvozim {file}..."
 	}
