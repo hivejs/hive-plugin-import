@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Belkacem77"
+		]
+	},
+	"plugin-import": {
+		"import": "Kter",
+		"import-browser-not-supported": "Iminig-ik ur isefrak ara tamahilt-agi. Suref-aɣ.",
+		"importing": "Akter n {file}..."
+	}
+}

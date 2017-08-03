@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Ooswesthoesbes"
+		]
+	},
+	"plugin-import": {
+		"import": "Veur in",
+		"import-browser-not-supported": "Diene browser óngersteunt dees functie neet.",
+		"importing": "{file} in 'nt veure..."
+	}
+}
