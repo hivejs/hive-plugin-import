@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Red Winged Duck"
+		]
+	},
+	"plugin-import": {
+		"import": "Імпарт",
+		"import-browser-not-supported": "Ваш браўзэр не падтрымлівае гэтую функцыю. Выбачайце."
+	}
+}
