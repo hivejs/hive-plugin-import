@@ -6,6 +6,7 @@
 	},
 	"plugin-import": {
 		"import": "Імпарт",
-		"import-browser-not-supported": "Ваш браўзэр не падтрымлівае гэтую функцыю. Выбачайце."
+		"import-browser-not-supported": "Ваш браўзэр не падтрымлівае гэтую функцыю. Выбачайце.",
+		"importing": "Імпарт {file}…"
 	}
 }

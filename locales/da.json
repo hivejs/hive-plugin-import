@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Joedalton"
+		]
+	},
+	"plugin-import": {
+		"import": "Importer",
+		"import-browser-not-supported": "Din browser understøtter ikke denne funktion. Beklager.",
+		"importing": "Importerer {file} ..."
+	}
+}
