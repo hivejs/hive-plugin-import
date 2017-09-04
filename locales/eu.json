@@ -1,11 +1,13 @@
 {
 	"@metadata": {
 		"authors": [
-			"Subi"
+			"Subi",
+			"Mikel Ibaiba"
 		]
 	},
 	"plugin-import": {
 		"import": "Inportatu",
+		"import-browser-not-supported": "Zure internet esploratzaileak ezaugarri hau ez du onartzen. Barkatu.",
 		"importing": "{file} inportatzen..."
 	}
 }
