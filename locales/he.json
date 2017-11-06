@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"YaronSh"
+		]
+	},
+	"plugin-import": {
+		"import": "ייבוא",
+		"import-browser-not-supported": "הדפדפן שלך אינו תומך בתכונה זו, עמך הסליחה.",
+		"importing": "מתבצע ייבוא של {file}…"
+	}
+}
