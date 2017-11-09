@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Joetaras"
+		]
+	},
+	"plugin-import": {
+		"import": "'Mborte",
+		"import-browser-not-supported": "'U browser tune non ge supporte sta funzione. Ne despiace.",
+		"importing": "Stoche a 'mborte {file}..."
+	}
+}
