@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Nirajan pant"
+		]
+	},
+	"plugin-import": {
+		"import": "आयात",
+		"import-browser-not-supported": "तमरो ब्राउजर येइ सुविधा लाई समर्थन नाइ अद्दो। माफ अर्याः।",
+		"importing": "{file} आयात अद्दाछ़..."
+	}
+}
