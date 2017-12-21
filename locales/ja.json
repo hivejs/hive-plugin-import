@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Sujiniku",
+			"Yusuke1109"
+		]
+	},
+	"plugin-import": {
+		"import": "インポート",
+		"import-browser-not-supported": "お使いのブラウザはこの機能をサポートしていません。ごめんなさい。",
+		"importing": "{file}をインポート中..."
+	}
+}

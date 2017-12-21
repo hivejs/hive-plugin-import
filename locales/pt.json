@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Athena in Wonderland"
+		]
+	},
+	"plugin-import": {
+		"import": "Importar",
+		"import-browser-not-supported": "O seu navegador não tem suporte para esta funcionalidade. Desculpe.",
+		"importing": "A importar {file}..."
+	}
+}
