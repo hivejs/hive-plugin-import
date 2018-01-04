@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Андрей"
+		]
+	},
+	"plugin-import": {
+		"import": "Импорттәуп",
+		"import-browser-not-supported": "Шәара шәбраузер иаднакылом ари афункциа. Ҳаҭамыз.",
+		"importing": "Аимпорт {file}…"
+	}
+}
