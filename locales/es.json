@@ -1,12 +1,13 @@
 {
 	"@metadata": {
 		"authors": [
-			"Macofe"
+			"Macofe",
+			"Fitoschido"
 		]
 	},
 	"plugin-import": {
 		"import": "Importar",
-		"import-browser-not-supported": "Tu navegador no soporta esta funcionalidad. Disculpas.",
+		"import-browser-not-supported": "El navegador no admite esta función. Lo sentimos.",
 		"importing": "Importando {file}..."
 	}
 }

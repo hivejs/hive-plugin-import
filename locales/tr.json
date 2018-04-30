@@ -1,12 +1,13 @@
 {
 	"@metadata": {
 		"authors": [
-			"Chansey"
+			"Chansey",
+			"Hedda"
 		]
 	},
 	"plugin-import": {
 		"import": "İçe aktar",
 		"import-browser-not-supported": "Üzgünüz. Tarayıcınız bu özelliği desteklememektedir.",
-		"importing": "İçe aktarılıyor {dosya}..."
+		"importing": "{file} içe aktarılıyor..."
 	}
 }
