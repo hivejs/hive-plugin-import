@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Rul1902"
+		]
+	},
+	"plugin-import": {
+		"import": "ဆူ့ဍုဂ်သုံ့လင်",
+		"importing": "ဆ်ုဆူ့ဍုဂ်သုံ့ {file}..."
+	}
+}
