@@ -1,11 +1,13 @@
 {
 	"@metadata": {
 		"authors": [
-			"Robin van der Vliet"
+			"Robin van der Vliet",
+			"Mirin"
 		]
 	},
 	"plugin-import": {
 		"import": "Enporti",
+		"import-browser-not-supported": "Via TTT-legilo ne subtenas tiun trajton, domaĝe.",
 		"importing": "Enportante la dosieron {file}..."
 	}
 }
